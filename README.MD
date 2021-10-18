@@ -1,5 +1,10 @@
 ## Exploring second-hand house transaction in Shanghai
 
+
+### Deployment link
+https://share.streamlit.io/idsf21/assignment-2-alicia1529/main/house_data_exploration.py
+
+
 ### Project goals
 This interactive data science application aims to explore a second-hand house transaction dataset. The dataset is comprised of 34355 second-hand house transaction records in Shanghai between 2012-2017.
 
