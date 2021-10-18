@@ -21,7 +21,7 @@ st.header("Exploring second-hand house transaction in Shanghai :house: :dollar:"
 
 
 
-st.header(":star: Unit price and area")
+st.header(":star: Unit Price By Location")
 """
 The map below visualizes the distribution of second house transaction data in shanghai.\n
 Each dot is a transaction with radius representing the total amount of transaction price.\n
@@ -178,7 +178,7 @@ st.altair_chart(chart, use_container_width=True)
 
 
 
-st.header(":star: Change of unit price over recent five years")
+st.header(":star: Change Of Unit Price From 2012-2017")
 """
 Time is also an important dimension to explore the unit price change in Shanghai.\n
 An average unit price by area is calculated and plot for different years.\n
